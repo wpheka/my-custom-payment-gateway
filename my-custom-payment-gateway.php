@@ -9,7 +9,7 @@
  * Author URI: https://www.wpheka.com/
  *
  * Text Domain: my-custom-payment-gateway
- * Domain Path: /i18n/languages/
+ * Domain Path: /languages/
  *
  * Requires at least: 4.2
  * Tested up to: 6.6
